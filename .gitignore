@@ -1,0 +1,5 @@
+.env
+node_modules
+dist
+public/bundle.js
+nginx_signing.key
