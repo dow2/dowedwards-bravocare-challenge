@@ -1,5 +1,9 @@
-.env
+# MAC OS
+.DS_Store
+
+# Node/NPM
 node_modules
-dist
-public/bundle.js
-nginx_signing.key
+
+# Project
+client/dist/bundle.js
+.env
